@@ -1,9 +1,9 @@
 @import "~bootstrap/scss/bootstrap";
 
 :root {
-    --background: rgb(254, 253, 253);
-    --color-primary: #0e79e3;
-    --color-text: rgb(224, 17, 17);
+    --background: white;
+    --color-primary: #131414;
+    --color-text: rgb(221, 217, 217);
 }
 
   body {
@@ -11,7 +11,7 @@
   }
 .navbar {
 
-    background-color: var(--color-primary)
+    background-color: var(--color-primary);
 }
 
 .navbar a {
